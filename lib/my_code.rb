@@ -48,5 +48,6 @@ def map_to_square(source_array)
   return sum 
 end
 
+def reduce_to_all_true(source_array)
     
   
