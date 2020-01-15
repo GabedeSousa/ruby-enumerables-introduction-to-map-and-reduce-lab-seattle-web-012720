@@ -28,5 +28,7 @@ end
 return new_array
 end
 
+def map_to_square(source_array)
+  
 
   
