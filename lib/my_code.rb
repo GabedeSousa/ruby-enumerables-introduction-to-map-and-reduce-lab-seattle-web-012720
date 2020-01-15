@@ -45,5 +45,8 @@ def map_to_square(source_array)
       sum += source_array[i]
       i += 1 
   end 
+  return sum 
+end
+
     
   
